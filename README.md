@@ -5,15 +5,15 @@ Bradley Diep
 
 ## Sample Output
 
----
+'''
 > $ cat /proc/jiffies
----
+'''
 
-![](/jiffies/jiffies_output.png)
+![](/jiffies/jiffies_output.PNG)
 
 
----
+'''
 > $ cat /proc/seconds
----
+'''
 
-![](/seconds/seconds_output.png)
+![](/seconds/seconds_output.PNG)
